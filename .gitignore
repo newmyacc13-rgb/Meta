@@ -1,0 +1,3 @@
+__pycache__/
+evaluation/results*.json
+evaluation/browser-results/
